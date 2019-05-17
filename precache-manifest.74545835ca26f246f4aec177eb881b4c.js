@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b3b09b065e180cd4352dea4142c09e9",
+    "revision": "373528632c17c3ee078f332e015ad023",
     "url": "/MathIsCool/index.html"
   },
   {
