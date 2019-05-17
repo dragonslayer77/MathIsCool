@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MathIsCool/precache-manifest.15b685483244b59ecdefb9e0ed2e03df.js"
+  "/MathIsCool/precache-manifest.8b47645a8b779908c6f46a1b79a32f11.js"
 );
 
 self.addEventListener('message', (event) => {

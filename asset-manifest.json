@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MathIsCool/static/css/main.5681e80a.chunk.css",
-    "main.js": "/MathIsCool/static/js/main.c01aa600.chunk.js",
-    "main.js.map": "/MathIsCool/static/js/main.c01aa600.chunk.js.map",
+    "main.css": "/MathIsCool/static/css/main.5c7954f6.chunk.css",
+    "main.js": "/MathIsCool/static/js/main.59839945.chunk.js",
+    "main.js.map": "/MathIsCool/static/js/main.59839945.chunk.js.map",
     "runtime~main.js": "/MathIsCool/static/js/runtime~main.a5f79b98.js",
     "runtime~main.js.map": "/MathIsCool/static/js/runtime~main.a5f79b98.js.map",
-    "static/js/2.ceaff2f2.chunk.js": "/MathIsCool/static/js/2.ceaff2f2.chunk.js",
-    "static/js/2.ceaff2f2.chunk.js.map": "/MathIsCool/static/js/2.ceaff2f2.chunk.js.map",
+    "static/js/2.997ee367.chunk.js": "/MathIsCool/static/js/2.997ee367.chunk.js",
+    "static/js/2.997ee367.chunk.js.map": "/MathIsCool/static/js/2.997ee367.chunk.js.map",
     "index.html": "/MathIsCool/index.html",
-    "precache-manifest.15b685483244b59ecdefb9e0ed2e03df.js": "/MathIsCool/precache-manifest.15b685483244b59ecdefb9e0ed2e03df.js",
+    "precache-manifest.8b47645a8b779908c6f46a1b79a32f11.js": "/MathIsCool/precache-manifest.8b47645a8b779908c6f46a1b79a32f11.js",
     "service-worker.js": "/MathIsCool/service-worker.js",
-    "static/css/main.5681e80a.chunk.css.map": "/MathIsCool/static/css/main.5681e80a.chunk.css.map"
+    "static/css/main.5c7954f6.chunk.css.map": "/MathIsCool/static/css/main.5c7954f6.chunk.css.map"
   }
 }
