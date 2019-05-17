@@ -14,7 +14,7 @@ class Home extends Component {
       <button className="homeButtons" >ABOUT</button>
       </Link>
       </div>
-      <h3>You will have 10 seconds to answer the questions, good luck ;)</h3>
+      <h3>You will have 10 seconds to answer each question, good luck ;)</h3>
       </div>
     );
   }

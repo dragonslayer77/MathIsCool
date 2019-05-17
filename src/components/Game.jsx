@@ -72,7 +72,7 @@ class Game extends Component {
         return (
           <div className="game gamecontainer">
         <div className="intro">
-         <h3> You have 10 seconds to answer the question (if the answer is a decimal round)</h3>
+         <h3> Do your best to answer the question as quick as possible (if the answer is a decimal round)</h3>
         </div>
         <div className="target">{question}</div>
         <div className="challenge-numbers">
