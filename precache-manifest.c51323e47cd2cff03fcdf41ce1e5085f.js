@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c61ee88bfa9ba36a74997adba684bc87",
+    "revision": "0b3b09b065e180cd4352dea4142c09e9",
     "url": "/MathIsCool/index.html"
   },
   {
-    "revision": "347ea04817402642d1de",
-    "url": "/MathIsCool/static/css/main.5c7954f6.chunk.css"
+    "revision": "9787002bdc58bc1b3266",
+    "url": "/MathIsCool/static/css/main.2d33e4c9.chunk.css"
   },
   {
     "revision": "b127e9615fd32c487075",
     "url": "/MathIsCool/static/js/2.997ee367.chunk.js"
   },
   {
-    "revision": "347ea04817402642d1de",
-    "url": "/MathIsCool/static/js/main.59839945.chunk.js"
+    "revision": "9787002bdc58bc1b3266",
+    "url": "/MathIsCool/static/js/main.cfce5fca.chunk.js"
   },
   {
     "revision": "6e064ee3238dc24c6f97",
