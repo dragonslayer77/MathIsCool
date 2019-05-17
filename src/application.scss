@@ -47,7 +47,7 @@ h3{
   }
 
 .bodycontainer{
-  width: 700px;
+  width: 100vh;
   height: 600px;
   margin: 0 auto;
   background-color: grey;
@@ -185,7 +185,8 @@ h3{
   color: white;
   background-color: #c99d1a;
   margin-left: 10%;
-  width: 7%;
+  width: 11%;
+  height: 8vh;
   text-align: center;
   font-family: 'Roboto Mono', monospace;
 }
@@ -221,3 +222,36 @@ h3{
   justify-content: center;
   padding-top: 15%;
 }  
+#resetbtn{
+  opacity: 0;
+}
+@media (max-width: 700px){
+  .bodycontainer{
+    height: 100vh;
+    width: 100vw;
+  }
+  .gamecontainer{
+    height: 100vh;
+    width: 100vw;
+  }
+  .aboutcontainer{
+    height: 100vh;
+    width: 100vw;
+    .profileImage{
+      height: 23%;
+    }
+  }
+  .textbox{
+    font-size: 15px;
+  }
+  .popup{
+    width: 100vw;
+    // height: 1vh;
+  }
+  .number{
+    font-size: 25px;
+  }
+  .target{
+    font-size: 20px;
+  }
+}

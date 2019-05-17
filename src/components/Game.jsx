@@ -136,7 +136,7 @@ class Game extends Component {
           {({ reset }) => (
               <React.Fragment>
                   <Timer.Seconds /> 
-                  <button id="resetbtn" onClick={reset}>Reset</button>
+                  <button className="resetbtn" id="resetbtn" onClick={reset}>Reset</button>
               </React.Fragment>
           )}
         </Timer>
