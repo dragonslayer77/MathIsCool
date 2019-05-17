@@ -4,8 +4,7 @@ class NumberButton extends Component {
     constructor(props){
         super(props);
         this.state = {
-            isSelected: false,
-            isCorrect: false
+            isSelected: false
         }
     }
 
@@ -28,14 +27,13 @@ class NumberButton extends Component {
     render(){
         const { answer, isCorrect} = this.props;
         // const classColor = `number ${this.props.isCorrect ? 'green' : ''} ${this.props.isAnsweredCorrectly && !this.props.isCorrect ? 'wrong' : ''} `
-             const getClassColor = () => {
-                 if(this.state.isCorrect){
-                     return ' green';
-                    } else if(this.state.isSelected && !isCorrect){
-                        return ' wrong';
-                    }
-                }
-                console.log(this.state.isSelected);
+        const getClassColor = () => {
+            if(this.state.isCorrect){
+                return ' green';
+            } else if(this.state.isSelected && !isCorrect){
+                return ' wrong';
+            } 
+        }
         return (
             <div>
                 <div 
