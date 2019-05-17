@@ -36,7 +36,7 @@ class Game extends Component {
             default:
         };
         this.setState({
-          question: `${randomNumber1} ${operators[opindex]} ${randomNumber2} = ?`,
+          question: `${randomNumber1} ${operators[opindex]} ${randomNumber2} = `,
           correctAnswer: Math.floor(result),
           wrongAnswers: [randomNumber3, randomNumber4, randomNumber5],
           shuffledAnswers: shuffle([randomNumber3, randomNumber4, randomNumber5, Math.floor(result)])
@@ -72,7 +72,7 @@ class Game extends Component {
         return (
           <div className="game gamecontainer">
         <div className="intro">
-          You have 10 seconds to answer the question (if the answer is a decimal round)
+         <h3> You have 10 seconds to answer the question (if the answer is a decimal round)</h3>
         </div>
         <div className="target">{question}</div>
         <div className="challenge-numbers">
